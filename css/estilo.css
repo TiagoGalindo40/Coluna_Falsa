@@ -4,7 +4,6 @@ body {
 }
 
 #container {
-    
     width: 960px;
     margin: 0 auto;
     background: #fff url(../imagens/coluna.png) repeat-y left top;
@@ -39,6 +38,7 @@ body {
 
 #conteudo-principal {
     
+    border: 1px solid orangered;
     width: 63%; /*320px = 45.71% */
     float: left;
     text-align: justify;
